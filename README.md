@@ -10,7 +10,7 @@ This repo contains PyTorch implementation of the paper "[Energy Discrepancies: A
 
 by [Tobias Schröder](https://tobias-schroeder.github.io/), [Zijing Ou](https://j-zin.github.io/), [Jen Ning Lim](https://scholar.google.com/citations?user=Uryp_N8AAAAJ&hl=en), [Yingzhen Li](http://yingzhenli.net/home/en/), [Sebastian Vollmer](https://scholar.google.co.uk/citations?user=WoqSEpYAAAAJ&hl=en), and [Andrew Duncan](https://www.imperial.ac.uk/people/a.duncan).
 
-<!-- > We propose a novel loss function called Energy Discrepancy (ED)
+> We propose a novel loss function called Energy Discrepancy (ED)
 which does not rely on the computation of scores or expensive Markov chain
 Monte Carlo. We show that ED approaches the explicit score matching and negative log-likelihood loss under different limits, effectively interpolating between
 both. Consequently, minimum ED estimation overcomes the problem of nearsightedness encountered in score-based estimation methods, while also enjoying
@@ -18,7 +18,7 @@ theoretical guarantees. Through numerical experiments, we demonstrate that ED
 learns low-dimensional data distributions faster and more accurately than explicit
 score matching or contrastive divergence. For high-dimensional image data, we
 describe how the manifold hypothesis puts limitations on our approach and demonstrate the effectiveness of energy discrepancy by training the energy-based model
-as a prior of a variational decoder model. -->
+as a prior of a variational decoder model.
 
 ## Experiments
 
