@@ -28,3 +28,5 @@ We provide the notebooks to reproduce the experiments in the paper:
 - `w_stabilisation.ipynb`: Reproduce Figure 2 (understanding the w-stabilisation)
 - `density_estimation.ipynb`: Density estimation on 2D toy data
 - `edlebm_mnist.ipynb`: Training ED-LEBM on MNIST
+
+Please also check [this repository](https://github.com/J-zin/discrete-energy-discrepancy) for the code of [discrete energy discrepancy](https://neurips.cc/virtual/2024/poster/93171)!!!
